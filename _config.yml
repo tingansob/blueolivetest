@@ -1,6 +1,6 @@
 title: Blue Olive Group
 description: > # this means to ignore newlines until "baseurl:"
-  Blue Olive description goes here
+  Blue Olive description goes here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "Your-Link.github.io" # the base hostname & protocol for your site
 # Build settings

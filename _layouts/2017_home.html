@@ -19,6 +19,12 @@
             </div>
         </div>
     </header>
+    
+{% if jekyll.environment == 'production' %}
+  I'm in production!
+{% else %} 
+  I'm in development!
+{% endif %}
 
     {% include 2017_data/intro.html %}
     {% include 2017_data/speakers.html %}

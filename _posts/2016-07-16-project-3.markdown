@@ -1,6 +1,9 @@
 ---
 title: Name
-name: Name-1
+date: 2016-07-16 00:00:00 Z
+categories:
+- 2016_speakers
+name: Name-3
 subtitle: Position
 layout: 2016_default
 modal-id: 1
@@ -10,3 +13,4 @@ alt: Picture of TBD
 topic: Topic
 description: More Info
 ---
+

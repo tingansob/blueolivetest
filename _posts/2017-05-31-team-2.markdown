@@ -1,5 +1,8 @@
 ---
 title: Name
+date: 2017-05-31 00:00:00 Z
+categories:
+- 2017_teams
 name: Name 2
 subtitle: Position
 layout: 2017_default
@@ -8,3 +11,4 @@ thumbnail: TBD.jpg
 alt: Picture of Name
 description: Info 2
 ---
+

@@ -1,25 +1,33 @@
+---
 title: Blue Olive Group
-description: > # this means to ignore newlines until "baseurl:"
-  Blue Olive description goes here.
-baseurl: "" #blueolive # the subpath of your site, e.g. /blog
-url: http://tingansob.github.io/blueolive # the base hostname & protocol for your site
-# Build settings
-markdown: kramdown
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 'Blue Olive description goes here.
 
+'
+baseurl: ''
+url: http://tingansob.github.io/blueolive
+markdown: kramdown
 facebook:
   app_id: 
-
 logo: "../css/2016_style/img/icon-large.png"
-
-social: 
-  name: Your Facebook Page
-  link: "https://www.facebook.com/"
-
+social:
+- title: facebook
+  url: https://www.facebook.com
+- title: twitter
+  url: https://twitter.com
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
-
-include: ['_2016_pages', '_2017_pages']
-
+include:
+- _2016_pages
+- _2017_pages
 plugins:
+<<<<<<< HEAD
   - jekyll-sitemap
   - jekyll-seo-tag
 
@@ -33,4 +41,8 @@ social:
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-tactile
+=======
+- jekyll-sitemap
+- jekyll-seo-tag
+>>>>>>> 58643e95800c12ec9152db772a809b69628ac328
 permalink: pretty

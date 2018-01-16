@@ -32,4 +32,5 @@ social:
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-tactile
 permalink: pretty

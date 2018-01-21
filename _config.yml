@@ -16,7 +16,7 @@ url: http://awais545.github.io/blueolivetest
 markdown: kramdown
 facebook:
   app_id: 
-logo: "../css/2016_style/img/icon-large.png"
+logo: "/css/2016_style/img/icon-large.png"
 social:
 - title: facebook
   url: https://www.facebook.com

@@ -11,8 +11,8 @@ collections:
 description: 'Blue Olive description goes here.
 
 '
-baseurl: ''
-url: http://awais545.github.io/blueolive
+baseurl: '/blueolivetest'
+url: http://awais545.github.io/blueolivetest
 markdown: kramdown
 facebook:
   app_id: 
